@@ -8,6 +8,7 @@ Here are the instructions on making the Guy to attach or embed in whatever you w
 ## This is the Beginning of the Non-Katie Part
 Hello Not-Katies. 
 You guys don't have soldering irons and what not so everything is attached, coded, and ready to go! To attach the motor, remove the sticker on the back of the motor and just stick it on something. To power it on, pop in whatever battery I gave you. There is no on/off switch because I ran out, whoops! To see a more ~in depth~ way to attach it to things, scroll down to the "Ok What Now" section.
+![](/photos/guystuff.jpg)
 
 ## KATIE!!!
 You may begin here
