@@ -1,5 +1,5 @@
-//                                                                                                                                                                                                                                                                                                                                                                                                                         #include "beat.cpp"
-Beat heart(81, 5);
+#include "beat.cpp"
+Beat heart(65, 11);
 
 void setup() {
 }
