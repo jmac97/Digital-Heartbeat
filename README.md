@@ -28,7 +28,7 @@ Those are the necessary bits, here are the optional things I should've included 
 5. Wire Strippers
 
 
-## Trime Wire Length 
+## Trim Wire Length 
 Use some wire strippers to cut the wire length to your need.
 ![](/photos/trip.jpg);
 
