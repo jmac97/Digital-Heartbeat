@@ -1,14 +1,15 @@
 # Digital-Heartbeat
 Kit of my heart
+Instructions on making the Guy to attach or embed in whatever you want!
 
 
-## Hello Friends
-Here are the instructions on making the Guy to attach or embed in whatever you want! Everything is attached and ready to go. The fist section applies only to people who are NOT Katie. If you are Katie, skip to the section that says "KATIE!!!"
-
-## This is the Beginning of the Non-Katie Part
-Hello Not-Katies. 
+## If you got a kit
 You guys don't have soldering irons and what not so everything is attached, coded, and ready to go! To attach the motor, remove the sticker on the back of the motor and just stick it on something. To power it on, pop in whatever battery I gave you. There is no on/off switch because I ran out, whoops! To see a more ~in depth~ way to attach it to things, scroll down to the "Ok What Now" section.
-![](/photos/guystuff.jpg)
+
+<p align="center">
+  <img width="504" height="378" src="https://github.com/jmac97/Digital-Heartbeat/blob/master/photos/guystuff.jpg">
+</p>
+
 
 ## KATIE!!!
 You may begin here
