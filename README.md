@@ -38,6 +38,8 @@ Twist the ends of the wires so you can thread them into the holes in the lil Ard
 ![](/photos/wire-motor.jpg)
 
 
+"Hey I'm very smart and I see you're not using any additional circuitry on your 
+
 ## Optional: Adding Power Switch
 To add a power switch, cut the black wire of the battery and solder each end to a terminal on the switch. The two terminals you pick don't matter, but make sure they are next to each other.
 ![](/photos/switch-option.jpg)
