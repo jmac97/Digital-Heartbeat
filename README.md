@@ -69,6 +69,15 @@ To add a power switch, cut the black wire of the battery and solder each end to 
   <img width="504" height="378" src="https://github.com/jmac97/Digital-Heartbeat/blob/master/photos/switch-option.jpg">
 </p>
 
+### Code
+Install Arduino if you don't have it (you can get it [here](https://www.arduino.cc/en/main/software) and download the "heart" code from this repo. Follow [these instructions](https://learn.adafruit.com/introducing-pro-trinket/overview) to get the Arduino software ready to install code onto the Pro Trinket. 
+
+Before you upload your code to the board, you can change the BPM and pin to whatever setup/heartrate you have going. The first number represents the BPM, and the second number is the pin. 
+
+<p align="center">
+  <img width="206" height="154" src="https://github.com/jmac97/Digital-Heartbeat/blob/master/photos/code.PNG">
+</p>
+
 ### Test
 Plug the battery into the black terminal ontop of the Arduino. Things should light up and there should be a red flashing light. Once that stops, the motor should be gently vibrating.
 
