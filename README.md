@@ -15,7 +15,6 @@ You guys don't have soldering irons and what not so everything is attached, code
 Sorry I still love you I just ran out of stuff (hence lack of switches in the kits). Here's how to make everything from scratch.
 
 ### Parts
-Just double check I didn't forget anything lol
 
 <p align="center">
   <img width="378" height="504" src="https://github.com/jmac97/Digital-Heartbeat/blob/master/photos/all-parts.jpg">
