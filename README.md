@@ -1,6 +1,7 @@
 # Digital-Heartbeat
 Kit of my heart
-Instructions on making the Guy to attach or embed in whatever you want!
+
+[Instructions on making the Guy to attach or embed in whatever you want!](https://www.visualartandtech.net/julie-mceldoon)
 
 
 ## If you got a kit
